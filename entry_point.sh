@@ -2,7 +2,7 @@
 
 source /opt/bin/functions.sh
 
-export GEOMETRY="1024""x""768""x""24"
+export GEOMETRY="1044""x""893""x""24"
 
 function shutdown {
   kill -s SIGTERM $NODE_PID
